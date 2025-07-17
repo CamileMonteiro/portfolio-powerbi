@@ -1,1 +1,13 @@
-# portfolio-powerbi
+# Portfólio Power BI 📊
+
+Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia.
+
+- [Dashboard Vendas](./Dashboard%20Vendas)
+
+# Dashboard de Vendas
+
+Dashboard Analítico de Vendas Globais - Realizado no Curso Microsoft Power BI Para Business Intelligence e Data Science.
+
+📂 [Dashboard de Vendas - Visualizar Online](https://app.powerbi.com/view?r=eyJrIjoiMDViMjhjYTQtMDcyZi00ZWM1LWI3OGEtNDY3OWVkMGI1ODdlIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9)
+
+<img width="1512" height="781" alt="Dashboard Analítico de Vendas Globais" src="https://github.com/user-attachments/assets/921baa53-6c05-47a1-9041-8ea7069ba984" />
